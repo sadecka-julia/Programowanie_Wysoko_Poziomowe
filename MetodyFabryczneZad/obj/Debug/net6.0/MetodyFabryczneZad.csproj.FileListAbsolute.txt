@@ -1,0 +1,15 @@
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\bin\Debug\net6.0\MetodyFabryczneZad.exe
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\bin\Debug\net6.0\MetodyFabryczneZad.deps.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\bin\Debug\net6.0\MetodyFabryczneZad.runtimeconfig.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\bin\Debug\net6.0\MetodyFabryczneZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\bin\Debug\net6.0\MetodyFabryczneZad.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\MetodyFabryczneZad.csproj.AssemblyReference.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\MetodyFabryczneZad.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\MetodyFabryczneZad.AssemblyInfoInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\MetodyFabryczneZad.AssemblyInfo.cs
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\MetodyFabryczneZad.csproj.CoreCompileInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\MetodyFabryczneZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\refint\MetodyFabryczneZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\MetodyFabryczneZad.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\MetodyFabryczneZad.genruntimeconfig.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\MetodyFabryczneZad\obj\Debug\net6.0\ref\MetodyFabryczneZad.dll

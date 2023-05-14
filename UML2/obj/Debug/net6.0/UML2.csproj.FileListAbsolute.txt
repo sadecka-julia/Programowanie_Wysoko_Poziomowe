@@ -1,0 +1,15 @@
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\bin\Debug\net6.0\UML2.exe
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\bin\Debug\net6.0\UML2.deps.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\bin\Debug\net6.0\UML2.runtimeconfig.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\bin\Debug\net6.0\UML2.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\bin\Debug\net6.0\UML2.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\UML2.csproj.AssemblyReference.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\UML2.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\UML2.AssemblyInfoInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\UML2.AssemblyInfo.cs
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\UML2.csproj.CoreCompileInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\UML2.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\refint\UML2.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\UML2.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\UML2.genruntimeconfig.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\UML2\obj\Debug\net6.0\ref\UML2.dll

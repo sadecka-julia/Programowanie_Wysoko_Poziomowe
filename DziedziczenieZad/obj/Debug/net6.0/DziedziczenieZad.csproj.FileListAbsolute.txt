@@ -1,0 +1,15 @@
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\bin\Debug\net6.0\DziedziczenieZad.exe
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\bin\Debug\net6.0\DziedziczenieZad.deps.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\bin\Debug\net6.0\DziedziczenieZad.runtimeconfig.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\bin\Debug\net6.0\DziedziczenieZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\bin\Debug\net6.0\DziedziczenieZad.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\DziedziczenieZad.csproj.AssemblyReference.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\DziedziczenieZad.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\DziedziczenieZad.AssemblyInfoInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\DziedziczenieZad.AssemblyInfo.cs
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\DziedziczenieZad.csproj.CoreCompileInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\DziedziczenieZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\refint\DziedziczenieZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\DziedziczenieZad.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\DziedziczenieZad.genruntimeconfig.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\DziedziczenieZad\obj\Debug\net6.0\ref\DziedziczenieZad.dll

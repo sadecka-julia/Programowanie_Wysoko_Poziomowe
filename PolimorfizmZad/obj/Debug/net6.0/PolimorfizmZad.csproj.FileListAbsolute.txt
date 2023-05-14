@@ -1,0 +1,15 @@
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\bin\Debug\net6.0\PolimorfizmZad.exe
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\bin\Debug\net6.0\PolimorfizmZad.deps.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\bin\Debug\net6.0\PolimorfizmZad.runtimeconfig.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\bin\Debug\net6.0\PolimorfizmZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\bin\Debug\net6.0\PolimorfizmZad.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\PolimorfizmZad.csproj.AssemblyReference.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\PolimorfizmZad.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\PolimorfizmZad.AssemblyInfoInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\PolimorfizmZad.AssemblyInfo.cs
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\PolimorfizmZad.csproj.CoreCompileInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\PolimorfizmZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\refint\PolimorfizmZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\PolimorfizmZad.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\PolimorfizmZad.genruntimeconfig.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PolimorfizmZad\obj\Debug\net6.0\ref\PolimorfizmZad.dll
