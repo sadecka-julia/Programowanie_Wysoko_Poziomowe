@@ -1,0 +1,15 @@
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\PoleceniaIAdapteryZad.csproj.AssemblyReference.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\PoleceniaIAdapteryZad.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\PoleceniaIAdapteryZad.AssemblyInfoInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\PoleceniaIAdapteryZad.AssemblyInfo.cs
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\PoleceniaIAdapteryZad.csproj.CoreCompileInputs.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\bin\Debug\net7.0\PoleceniaIAdapteryZad.exe
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\bin\Debug\net7.0\PoleceniaIAdapteryZad.deps.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\bin\Debug\net7.0\PoleceniaIAdapteryZad.runtimeconfig.json
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\bin\Debug\net7.0\PoleceniaIAdapteryZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\bin\Debug\net7.0\PoleceniaIAdapteryZad.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\PoleceniaIAdapteryZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\refint\PoleceniaIAdapteryZad.dll
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\PoleceniaIAdapteryZad.pdb
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\PoleceniaIAdapteryZad.genruntimeconfig.cache
+D:\STUDIA\Akustyczna\Semestr_2\Programowanie\PoleceniaIAdapteryZad\obj\Debug\net7.0\ref\PoleceniaIAdapteryZad.dll
